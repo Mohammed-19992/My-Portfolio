@@ -1,0 +1,17 @@
+.center {
+text-align: center;
+padding: 0;
+margin: 10px;
+}
+
+.color {
+    background-color: paleturquoise;
+}
+
+.color1 {
+    background-color: whitesmoke;
+}
+
+.p {
+    font-weight: bold;
+}
