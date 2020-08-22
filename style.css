@@ -17,8 +17,7 @@ background-color: grey;
     font-weight: bold;
 }
 
-.center1 {
-    padding: 0;
-    text-align: center;
-    font
+.padding {
+padding: 4px;
+margin: 5px;
 }
